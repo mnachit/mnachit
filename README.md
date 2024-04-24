@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MOHAMED NACHIT</h1>
-<h3 align="center">Web developer 👨‍💻 (Vue JS | JS | PHP, Laravel, Symfony 🎼)</h3>
+<h3 align="center">Web developer 👨‍💻 (JAVA | Spring | React | Angular | Vue JS | JS | PHP, Laravel, Symfony 🎼)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
